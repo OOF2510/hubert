@@ -1,0 +1,15 @@
+{
+  "name": "@oof2510/hubert",
+  "version": "1.0.0",
+  "author": "OOF2510",
+  "license": "MPL-2.0",
+  "main": "hubert.js",
+  "dependencies": {
+    "got": "^11.8.2",
+    "terminal-image": "^2.0.0"
+  },
+  "type": "module",
+  "bin": {
+    "hubert": "hubert.js"
+  }
+}
