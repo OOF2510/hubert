@@ -3,11 +3,12 @@
 Hubert
 
 install:
-__npm__
+
+__npm__:
 ```bash
 npm i -g @oof2510/hubert
 ```
-__yarn__
+__yarn__:
 ```bash
 yarn global add @oof2510/hubert
 ```
